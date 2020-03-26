@@ -1,6 +1,35 @@
-#frank{
+img {
+  width: 45%;
+}
+
+.jumbotron{
+  background-color: grey;
+}
+
+.radio{
+  color: pink
+}
+#galadriel{
   display: none;
 }
 #rosie{
+  display: none;
+}
+#uhura{
+  display: none;
+}
+#crusher{
+  display: none;
+}
+#dobby{
+  display: none;
+}
+#hagrid{
+  display: none;
+}
+#jareth{
+  display: none;
+}
+#hoggle{
   display: none;
 }
