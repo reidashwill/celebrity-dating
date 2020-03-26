@@ -7,7 +7,7 @@ img {
 }
 
 .radio{
-  color: pink
+  bg-color: grey; 
 }
 #galadriel{
   display: none;
